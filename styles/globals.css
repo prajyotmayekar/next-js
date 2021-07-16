@@ -15,6 +15,28 @@ a {
   box-sizing: border-box;
 }
 
+.page_title{
+  width:100%;
+  text-align:center;
+}
+
+footer{
+  width:100%;
+  height:40px;
+  text-align:center;
+  position:absolute;
+  bottom:2px;
+}
+
+footer h3{
+  margin:0;
+  padding:0;
+}
+
+.details_list{
+  width:100%;
+  text-align:center;
+}
 
 /* navigation list */
 

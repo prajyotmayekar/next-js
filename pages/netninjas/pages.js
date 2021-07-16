@@ -4,9 +4,7 @@ import Footer from '../../components/Footer'
 function pages() {
     return (
         <div>
-            <Navbar/>
-            <h1>Pages Component inside NetNinja</h1>
-            <Footer/>
+            <h1 className="page_title">Pages Component inside NetNinja</h1>
         </div>
     )
 }

@@ -13,11 +13,9 @@ export default function Home() {
         <meta name="description" content="Generated using next app" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Navbar/>
       <div>
-        <h1>Hello There</h1>
+        <h1 className="page_title">Home page</h1>
       </div>
-      <Footer/>
     </div>
   )
 }
